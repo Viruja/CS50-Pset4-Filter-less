@@ -1,2 +1,9 @@
 # Pset4-Filter-less---cs50
-Filters available : greyscale, sepia, refract, blur
+
+This is the solution for the Problem Set 04 in CS50 Harvard Uviversity.
+
+This contains the below filters:
+          - Greyscale
+          - Sepia
+          - Reflect
+          - Blur
