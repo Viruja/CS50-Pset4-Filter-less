@@ -7,6 +7,7 @@ This contains the below filters:
           - Sepia
           - Reflect
           - Blur
+
 When testing this code the file that should be compiled is the filter.c
 
 NOTE : when testing the test files should be BMP files.
